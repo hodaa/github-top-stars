@@ -5,7 +5,7 @@ You to be able to view the top 10, 50.
 ## Installation
 * `cp .env.example .env`  
   
-* Put this in your '.env'
+* Put this in your .env
   
    * API_URL=https://api.github.com/search/repositories
    * GITHUB_TOKEN=your token 
