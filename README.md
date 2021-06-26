@@ -1,6 +1,5 @@
 ## GitHub Repos
-A list of the most popular repositories, sorted by number of stars. 
-You to be able to view the top 10, 50.
+A list of the most popular repositories, sorted by number of stars. You are able to view the top 10, 50.
 
 ## Installation
 * `cp .env.example .env`  

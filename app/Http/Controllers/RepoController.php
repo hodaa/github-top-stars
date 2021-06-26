@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Resources\RepoResource;
-use App\Service\GitHubRpoService;
+use App\Services\GitHubRpoService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 

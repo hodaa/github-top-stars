@@ -2,8 +2,7 @@
 
 namespace Tests\Feature;
 
-use App\Service\GitHubRpoCLIService;
-use App\Service\GitHubRpoService;
+use App\Services\GitHubRpoCLIService;
 use Tests\TestCase;
 
 class GitHubRepoCLIServiceTest extends TestCase

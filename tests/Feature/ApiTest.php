@@ -2,7 +2,7 @@
 
 namespace Tests\Feature;
 
-use App\Service\GitHubRpoService;
+use App\Services\GitHubRpoService;
 use Tests\TestCase;
 use Illuminate\Http\Client\Response;
 use GuzzleHttp\Psr7\Response as clientResponse;
